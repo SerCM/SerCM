@@ -1,12 +1,12 @@
-Full Stack Developer graduado en Henry en 2022.
-Experiencia trabajando en NodeJS, React, Redux, SQL entre otras tecnologias del sector. 7 años de experiencia en seguridad física y monitoreo con especialización en Entidades Bancarias.
+Full Stack Developer graduado en Henry en 2022.</br>
+Experiencia trabajando en NodeJS, React, Redux, SQL entre otras tecnologias del sector. 7 años de experiencia en seguridad física y monitoreo con especialización en Entidades Bancarias.</br>
 </br>
 Orientado a la resolucion de problemas, autonomia dentro de un equipo de trabajo, vocación, persistencia y compromiso.
 </br>
 Proyectos en los que trabaje:
 </br>
-~<strong>Videogames</strong></br>
-Not Waste</br>
+~<strong>Not Waste</strong></br>
+
 Proyecto final del Bootcamp de Henry realizado en forma grupal con la metodología de SCRUM.</br>
 Objetivo de la aplicacion: </br>
 -conectar diversos vendedores con compradores en cercania.</br>
@@ -16,21 +16,21 @@ Funcionalidades:</br>
 -como vendedor poder publicar y gestionar mis productos, publicaciones y pedidos de forma sencilla pudiendo personalizar mis artículos y preferencias relacionadas a través de un menú eficaz.</br>
 -como manager es posible administrar y moderar la interacción entre vendedores y compradores, además de obtener datos estadísticos sobre el funcionamiento de la pagina.</br>
 Tecnologías utilizadas:</br>
--Redux</br>
--Node.js</br>
--Express</br>
--Auth0</br>
--Mercadopago PRO</br>
+- Redux</br>
+- Node.js</br>
+- Express</br>
+- Auth0</br>
+- Mercadopago PRO</br>
 Repositorio: https://github.com/SerCM/not-waste_PF-HENRY</br>
 Deploy: https://not-waste-app.vercel.app/</br>
 </br>
 ~<strong>Videogames</strong>
 
-Consumiendo datos de una API, esta página permite buscar videojuegos seleccionando categoría, plataformas y géneros (a través de filtros combinados realizados en el front).
-Funcionalidades:
--filtrados
--consumo de API
--creación de un videojuego y almacenaje en base de datos local, combinándose con los datos obtenidos a través de la API.
+Consumiendo datos de una API, esta página permite buscar videojuegos seleccionando categoría, plataformas y géneros (a través de filtros combinados realizados en el front).</br>
+Funcionalidades:</br>
+-filtrados</br>
+-consumo de API</br>
+-creación de un videojuego y almacenaje en base de datos local, combinándose con los datos obtenidos a través de la API.</br>
 Tecnologías utilizadas:
 - React
 - Redux
