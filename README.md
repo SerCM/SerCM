@@ -5,6 +5,7 @@ Orientado a la resolucion de problemas, autonomia dentro de un equipo de trabajo
 </br>
 Proyectos en los que trabaje:
 </br>
+</br>
 ~<strong>Not Waste</strong></br>
 
 Proyecto final del Bootcamp de Henry realizado en forma grupal con la metodología de SCRUM.</br>
